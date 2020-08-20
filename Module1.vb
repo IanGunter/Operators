@@ -24,14 +24,26 @@ Module Module1
 
         'Concatenate Stuff
         'Use with caution
-        Console.WriteLine("2" + "2")
-        Console.ReadLine()
+        'Console.WriteLine("2" + "2")
+        'Console.ReadLine()
         'Happy times
-        Console.WriteLine("2" & "2")
-        Console.ReadLine()
+        ' Console.WriteLine("2" & "2")
+        'Console.ReadLine()
         'example
-        Console.WriteLine("Hello, " & "World")
+        'Console.WriteLine("Hello, " & "World")
+        'Console.ReadLine()
+
+        'Compare stuff
+        Console.WriteLine(1 > 3)
         Console.ReadLine()
+        Console.WriteLine(1 < 3)
+        Console.ReadLine()
+        Console.WriteLine(1 = 3)
+        Console.ReadLine()
+        Console.WriteLine(1 <> 3)
+        Console.ReadLine()
+
+
 
 
 
